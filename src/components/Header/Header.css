@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    background-image: url("https://www.extensis.com/hs-fs/hubfs/Extensis/Images/content/Nickelodeon-QuoteBackground.jpg?width=2000&name=Nickelodeon-QuoteBackground.jpg");
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 20px;
+    height: 100px;
+    font-family: monospace
+  }
+
+  
+  .scores {
+    float: right;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: -30px
+  }
